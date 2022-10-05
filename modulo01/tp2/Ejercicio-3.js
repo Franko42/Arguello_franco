@@ -1,10 +1,9 @@
-  
-  n = 5
+ n = 5
    
-	var total = 1; 
+var total = 1; 
 
-	for (i=1; i<=n; i++) {
-		total = total * i; 
-	}
+for (i=1; i<=n; i++) {
+     total = total * i; 
+     }
 	
-  console.log(total)
+console.log(total)
