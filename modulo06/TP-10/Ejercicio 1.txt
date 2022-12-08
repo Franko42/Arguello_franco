@@ -2,12 +2,12 @@ Ejercicio 1
   
 A- El DOCTYPE indica que tipo de documento debe abrir el navegador y que sintaxis gramatica utiliza su codigo fuente.
 B- 
-La etiqueta <head> </head> se utiliza para
-La etiqueta <title> </title> se utiliza para
-La etiqueta <meta se utiliza para
-La etiqueta <style> </style> se utiliza para
-La etiqueta <body> </body> se utiliza para
-La etiqueta  se utiliza para
+La etiqueta <head> </head> provee informacion sobre el documento.
+La etiqueta <title> </title> se utiliza para indicar el titulo del documento.
+La etiqueta <meta> se utiliza para aportar metadatos sobre el documento. 
+La etiqueta <style> </style> se utiliza para determinar los estilos del documento.
+La etiqueta <body> </body> indican el inicio y final del cuerpo del documento. 
+La etiqueta  se utiliza para 
 La etiqueta se utiliza para
 La etiqueta se utiliza para
 La etiqueta se utiliza para
