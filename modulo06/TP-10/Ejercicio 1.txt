@@ -10,16 +10,16 @@ La etiqueta <body> </body> indican el inicio y final del cuerpo del documento.
 Las etiquetas <h1> <h2> <h3> <h4> <h5> <h6>  se usan para indicar titulos y subtitulos dentro del contenido del documento .
 La etiqueta <a> indica un link o url a otra pagina.
 La etiqueta <strong> se utiliza para agregar enfasis a una palabra o texto.  
-La etiqueta se utiliza para
-La etiqueta se utiliza para
-La etiqueta se utiliza para
-La etiqueta se utiliza para
-La etiqueta se utiliza para
-La etiqueta se utiliza para
-La etiqueta se utiliza para
-La etiqueta se utiliza para
-La etiqueta se utiliza para
-La etiqueta se utiliza para
+La etiqueta <br> se utiliza para
+La etiqueta <ul> se utiliza para
+La etiqueta <li> se utiliza para
+La etiqueta <p> se utiliza para
+La etiqueta <span> se utiliza para
+La etiqueta <table> </table> se utiliza para
+La etiqueta <tr> </tr> se utiliza para
+La etiqueta <td> </td> se utiliza para
+La etiqueta <img> se utiliza para
+
 
 
 
