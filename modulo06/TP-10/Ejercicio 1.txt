@@ -1,25 +1,24 @@
 Ejercicio 1 
   
-A- El DOCTYPE indica que tipo de documento debe abrir el navegador y que sintaxis gramatica utiliza su codigo fuente.
+A- El DOCTYPE indica que tipo de documento debe abrir el navegador y que sintaxis gramática utiliza su código fuente.
 B- 
-  La etiqueta <head> </head> provee informacion sobre el documento.
-  La etiqueta <title> </title> se utiliza para indicar el titulo del documento.
+  La etiqueta <head> </head> provee información sobre el documento.
+  La etiqueta <title> </title> se utiliza para indicar el título del documento.
   La etiqueta <meta> se utiliza para aportar metadatos sobre el documento. 
   La etiqueta <style> </style> se utiliza para determinar los estilos del documento.
   La etiqueta <body> </body> indican el inicio y final del cuerpo del documento. 
-  Las etiquetas <h1> <h2> <h3> <h4> <h5> <h6>  se usan para indicar titulos y subtitulos dentro del contenido del documento .
-  La etiqueta <a> indica un link o url a otra pagina.
-  La etiqueta <strong> se utiliza para agregar enfasis a una palabra o texto.  
-  La etiqueta <br> se utiliza para indicar un salto de linea.
+  Las etiquetas <h1> <h2> <h3> <h4> <h5> <h6> se usan para indicar títulos y subtítulos dentro del contenido del documento.
+  La etiqueta <a> indica un link o url a otra página.
+  La etiqueta <strong> se utiliza para agregar énfasis a una palabra o texto.  
+  La etiqueta <br> se utiliza para indicar un salto de línea.
   La etiqueta <ul> se utiliza para crear una lista no ordenada.
-  La etiqueta <li> se utiliza para indicar un item de una lista.
-  La etiqueta <p> se utiliza para indicar un parrafo.
-  La etiqueta <span> se utiliza para poder aplicar un estilo diferente dentro de un parrafo.
+  La etiqueta <li> se utiliza para indicar un ítem de una lista.
+  La etiqueta <p> se utiliza para indicar un párrafo.
+  La etiqueta <span> se utiliza para poder aplicar un estilo diferente dentro de un párrafo.
   La etiqueta <table> </table> se utiliza para crear una tabla.
   La etiqueta <tr> </tr> se utiliza para indicar una fila de celdas en una tabla.
   La etiqueta <td> </td> se utiliza para indicar una celda dentro de una tabla.
   La etiqueta <img> se utiliza para insertar una imagen.
 
-
-
+C- La etiqueta <script> se puede poner dentro del body o el head, la única diferencia va a ser el rendimiento al cargar la página, por eso se recomienda ponerla al final del body.
 
