@@ -7,9 +7,9 @@ La etiqueta <title> </title> se utiliza para indicar el titulo del documento.
 La etiqueta <meta> se utiliza para aportar metadatos sobre el documento. 
 La etiqueta <style> </style> se utiliza para determinar los estilos del documento.
 La etiqueta <body> </body> indican el inicio y final del cuerpo del documento. 
-La etiqueta  se utiliza para 
-La etiqueta se utiliza para
-La etiqueta se utiliza para
+Las etiquetas <h1> <h2> <h3> <h4> <h5> <h6>  se usan para indicar titulos y subtitulos dentro del contenido del documento .
+La etiqueta <a> indica un link o url a otra pagina.
+La etiqueta <strong> se utiliza para agregar enfasis a una palabra o texto.  
 La etiqueta se utiliza para
 La etiqueta se utiliza para
 La etiqueta se utiliza para
