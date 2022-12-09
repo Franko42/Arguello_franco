@@ -1,0 +1,4 @@
+Ejercicio 1:
+
+REST es cualquier interfaz entre sistemas que use HTTP para obtener datos o generar operaciones sobre esos datos en todos los formatos posibles.
+API 
