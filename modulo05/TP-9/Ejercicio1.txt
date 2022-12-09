@@ -3,3 +3,4 @@ Ejercicio 1:
 REST es cualquier interfaz entre sistemas que use HTTP para obtener datos o generar operaciones sobre esos datos en todos los formatos posibles.
 API es un conjunto de protocolos y definiciones que permite la comunicacion entre aplicaciones.
 Endpoint es cualquier dispositivo que este transfiriendo datos mediante una red.
+Encabezados son usados para pasar informacion adicional entre el cliente y el servidor mediante request y responses.
